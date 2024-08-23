@@ -1,7 +1,7 @@
 # Calculadora cientifica
 Calculadora cientifica desarrollada en HTML,  CSS y JAVASCRIPT
 
-_En el siguiente glosario se encuentran las funciones que se utilizaran para darle funcionalidad 
+En el siguiente glosario se encuentran las funciones que se utilizaran para darle funcionalidad 
 a ciertos botones, al lado de cada funcion se encuentra su correspondiente signo o texto._
 
 ## Nombre de las funciones:
@@ -61,4 +61,4 @@ representan tal cual su funcion en los estilos._
 * .bluebutton {}
 * .redbutton {}
 
-Desarrollado por [Oscar Garces](https://github.com/Deprimaria), [Didier Junco](https://github.com/DavidDidier), [Luis Avendaño](https://github.com/Lu9999-lu). 😊
+Desarrollado por [Oswaldo Ardila Medina](https://github.com/ozzycol/calculadora). 😊
